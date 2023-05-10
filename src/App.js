@@ -7,7 +7,7 @@ function App() {
     <>
       <Provider store={store}>
         <div>
-          <h1>Learn react</h1>
+          <h1>Learn redux</h1>
           <BookContainer />
         </div>
       </Provider>
